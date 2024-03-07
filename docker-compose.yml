@@ -1,0 +1,14 @@
+version: '2.4'
+
+services:
+  database:
+    image: mongo:4.2.7-bionic
+    hostname: mongo
+    ports:
+      - 27017:27017
+
+  redis:
+    image: redis:6.0.6-alpine
+    hostname: redis
+    ports:
+      - 6379:6379

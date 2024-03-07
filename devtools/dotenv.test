@@ -1,0 +1,6 @@
+# MongoDB data source name
+APP_DB_DSN=mongodb://localhost:27017/cardealship-test
+
+# App Settings
+APP_ENV=TEST
+APP_LOGGER_LEVEL=DEBUG

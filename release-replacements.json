@@ -1,0 +1,7 @@
+[
+    {
+      "files": ["app/utils/constants.py"],
+      "from": "APP_VERSION = \".*\"",
+      "to": "APP_VERSION = \"${nextRelease.version}\""
+    }
+]

@@ -1,0 +1,12 @@
+/.coverage
+/.env
+/coverage.xml
+/openapi.json
+/openapi.yaml
+/venv/
+/.pytest_cache/
+/.vscode/
+/.idea/
+/htmlcov/
+/mongo_data/
+**/__pycache__/

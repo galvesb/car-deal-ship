@@ -1,0 +1,17 @@
+-r base.txt
+asgi-lifespan==1.0.1
+autopep8==1.5.7
+bandit==1.7.0
+black==21.6b0
+flake8==3.9.2
+isort==5.9.1
+jwcrypto==0.9.1
+pyperclip==1.8.2
+pytest==6.2.4
+pytest-asyncio==0.15.1
+pytest-cov==2.12.1
+pytest-mock==3.6.1
+pytest-responses==0.5.0
+python-jose==3.3.0
+pre-commit==2.10.1
+responses==0.13.3
